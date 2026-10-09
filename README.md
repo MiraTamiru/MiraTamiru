@@ -11,7 +11,10 @@
 <p align="center">
 
 
-Building practical technology, one project at a time.
+<p align="center">
+  Building practical technology, one project at a time.
+</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
