@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-### AI • Software Engineering • Embedded Systems
+
 
 Building practical technology, one project at a time.
 
