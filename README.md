@@ -98,22 +98,29 @@ I'm an aspiring software engineer interested in **Artificial Intelligence, backe
 
 ## 🚀 Featured Projects
 
+### 💻 What I'm Building
+
 <p align="center">
-  <a href="https://github.com/MiraTamiru">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiraTamiru&repo=MiraTamiru&theme=tokyonight&hide_border=true" alt="GitHub Profile Repository" />
+  <a href="https://github.com/MiraTamiru/python-code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiraTamiru&repo=python-code&theme=tokyonight&hide_border=true" alt="Python Code Repository" />
   </a>
 </p>
 
-### 💻 What I'm Building
+**🐍 Python Projects**
 
-* 🎓 **Student Management System** — Practicing programming fundamentals and organizing student information.
+A collection of Python programs and practice projects as I develop my programming skills, including my Student Management System.
+
+[![View Python Projects](https://img.shields.io/badge/View_Python_Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MiraTamiru/python-code)
+
+---
+
 * 🌐 **ETHIOMINEMART** — A mining e-commerce web platform developed as a school project.
 * 📚 **Digital Library** — A web-based library management project.
-* ⚙️ **Backend API Development** — Practicing REST APIs, CRUD operations, Express.js, and MongoDB.
+* ⚙️ **Backend API Development** — Practicing REST APIs, CRUD operations, Node.js, Express.js, and MongoDB.
 
 <p align="center">
   <a href="https://github.com/MiraTamiru?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
   </a>
 </p>
 
