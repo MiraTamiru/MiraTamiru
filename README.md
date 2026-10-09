@@ -33,3 +33,34 @@
     <img src="https://img.shields.io/badge/Repositories-Explore-2EA44F?style=for-the-badge&logo=github" alt="Repositories" />
   </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an aspiring software engineer interested in **Artificial Intelligence, backend development, and embedded systems**. I enjoy learning how software and hardware work together to solve real-world problems.
+
+* 💻 Currently learning **Node.js, Express.js, and MongoDB**
+* 🤖 Exploring **AI and embedded systems**
+* 🌱 Improving my programming skills through hands-on projects
+* 🎯 Goal: Build practical, impactful technology
+* 📍 Based in Ethiopia
+
+---
+
+## 🗺️ My Learning Journey
+
+| Period       | Milestone                                                              |
+| ------------ | ---------------------------------------------------------------------- |
+| 2022–2026    | 🎓 Secondary education at Gelan Special Boys Boarding Secondary School |
+| 2025         | 🧠 Udacity courses: Programming, AI, and Data Analysis Fundamentals    |
+| 2025         | 🤖 AASTU weekend technology program                                    |
+| 2026         | ⚙️ INSA Cyber Talent — Embedded Systems track                          |
+| 2026–Present | 🚀 Developing backend skills with Node.js, Express, and MongoDB        |
+
+---
+
+<p align="center">
+  <i>"Learn continuously. Build intentionally. Create meaningful impact."</i>
+</p>
+
