@@ -124,5 +124,26 @@ A collection of Python programs and practice projects as I develop my programmin
   </a>
 </p>
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiraTamiru&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mira's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraTamiru&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MiraTamiru&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiraTamiru&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+
 
 
