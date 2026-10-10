@@ -154,5 +154,36 @@ A collection of Python programs and practice projects as I develop my programmin
 </p>
 
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=MiraTamiru&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+</p>
+
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mira-tamiru-707441352/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MiraTamiru">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building today, innovating for tomorrow. 🚀</i>
+</p>
+
+
 
 
