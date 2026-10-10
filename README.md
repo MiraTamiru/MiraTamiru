@@ -154,20 +154,6 @@ A collection of Python programs and practice projects as I develop my programmin
 </p>
 
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=MiraTamiru&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
-    width="100%"
-  />
-</p>
-
-
----
 
 ## 🤝 Let's Connect
 
