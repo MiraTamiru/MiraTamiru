@@ -96,16 +96,38 @@ I'm an aspiring software engineer interested in **Artificial Intelligence, backe
 
 ---
 
+
+---
+
 ## 🚀 Featured Projects
 
-### 💻 What I'm Building
+### 🐍 Python Student Management System
+A Python project focused on managing student records and practicing core programming concepts.
 
-<p align="center">
-  <a href="https://github.com/MiraTamiru/python-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiraTamiru&repo=python-code&theme=tokyonight&hide_border=true" alt="Python Code Repository" />
-  </a>
-</p>
+- **Tech:** Python
+- **Focus:** Programming fundamentals and data management
+- **Repository:** [View Source Code](https://github.com/MiraTamiru/python-code)
 
+### 🌐 ETHIOMINEMART
+A mining e-commerce web platform developed as a school project with a team. I contributed to coordination and full-stack development.
+
+- **Tech:** HTML, CSS, JavaScript, PHP
+- **Focus:** Web development, teamwork, and project presentation
+- **Repository:** Add the link to the actual project repository.
+
+### 📚 Digital Library
+A web-based library management project developed to practice building web applications.
+
+- **Tech:** HTML, CSS, JavaScript, PHP
+- **Focus:** Library management and web application development
+- **Repository:** Add the link to the actual project repository.
+
+### ⚙️ Backend API Development
+Currently practicing REST API development, CRUD operations, routing, middleware, and database integration.
+
+- **Tech:** Node.js, Express.js, MongoDB
+- **Focus:** Backend development and API design
+- **Status:** Learning through hands-on projects
 **🐍 Python Projects**
 
 A collection of Python programs and practice projects as I develop my programming skills, including my Student Management System.
