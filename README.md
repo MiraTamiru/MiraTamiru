@@ -142,10 +142,15 @@ A collection of Python programs and practice projects as I develop my programmin
 
 
 
+
+## 📈 Contribution Activity
+
 <p align="center">
-  <a href="https://github.com/MiraTamiru">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiraTamiru&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-  </a>
+  <img
+    src="https://ghchart.rshah.org/409ba5/MiraTamiru"
+    alt="Mira Tamiru's GitHub contribution calendar"
+    width="100%"
+  />
 </p>
 
 
