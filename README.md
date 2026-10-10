@@ -140,8 +140,13 @@ A collection of Python programs and practice projects as I develop my programmin
   <img src="https://streak-stats.demolab.com?user=MiraTamiru&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiraTamiru&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MiraTamiru&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 
