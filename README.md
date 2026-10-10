@@ -141,12 +141,11 @@ A collection of Python programs and practice projects as I develop my programmin
 </p>
 
 
+
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MiraTamiru&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
+  <a href="https://github.com/MiraTamiru">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiraTamiru&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  </a>
 </p>
 
 
